@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.business\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.business\\exceptions\\productnotfoundexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\exceptions\\productnotfoundexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.core\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|solutionrelative:shoperp.core\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.core\\enums\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|solutionrelative:shoperp.core\\enums\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|solutionrelative:shoperp.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|solutionrelative:shoperp.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.core\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|solutionrelative:shoperp.core\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CA812-97AE-4658-91AB-F030D9ABB7B6}|ShopERP.CA\\ShopERP.CA.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CA812-97AE-4658-91AB-F030D9ABB7B6}|ShopERP.CA\\ShopERP.CA.csproj|solutionrelative:shoperp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A096D0-4E35-4C59-AEC5-355C0173498A}|ShopERP.Data\\ShopERP.Data.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.data\\dal\\shopdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A096D0-4E35-4C59-AEC5-355C0173498A}|ShopERP.Data\\ShopERP.Data.csproj|solutionrelative:shoperp.data\\dal\\shopdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.core\\models\\shopbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|solutionrelative:shoperp.core\\models\\shopbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.business\\interfaces\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\interfaces\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.business\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.business\\implementations\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\implementations\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.business\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.business\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.business\\exceptions\\shopnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\exceptions\\shopnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.business\\shoperp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2F8CC06-BAA7-436D-97EA-7C08EE579087}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\shoperp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A096D0-4E35-4C59-AEC5-355C0173498A}|ShopERP.Data\\ShopERP.Data.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.data\\shoperp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6A096D0-4E35-4C59-AEC5-355C0173498A}|ShopERP.Data\\ShopERP.Data.csproj|solutionrelative:shoperp.data\\shoperp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|c:\\users\\aynuran\\desktop\\new folder\\shoperp\\shoperp.core\\shoperp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4362CC3E-7D10-4EAA-A633-AC015459CA0C}|ShopERP.Core\\ShopERP.Core.csproj|solutionrelative:shoperp.core\\shoperp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShopERP.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Models\\Product.cs",
+              "RelativeToolTip": "ShopERP.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCYAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:28:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ShopERP.Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Models\\Employee.cs",
+              "RelativeToolTip": "ShopERP.Core\\Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:27:45.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IShopService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Interfaces\\IShopService.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Interfaces\\IShopService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Interfaces\\IShopService.cs",
+              "RelativeToolTip": "ShopERP.Business\\Interfaces\\IShopService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:53:58.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "ShopERP.Core\\Enums\\ProductType.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Enums\\ProductType.cs",
+              "RelativeToolTip": "ShopERP.Core\\Enums\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:35:58.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleType.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Enums\\RoleType.cs",
+              "RelativeDocumentMoniker": "ShopERP.Core\\Enums\\RoleType.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Enums\\RoleType.cs",
+              "RelativeToolTip": "ShopERP.Core\\Enums\\RoleType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:34:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "ShopERP.Core\\Models\\Shop.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Models\\Shop.cs",
+              "RelativeToolTip": "ShopERP.Core\\Models\\Shop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:27:25.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopBase.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Models\\ShopBase.cs",
+              "RelativeDocumentMoniker": "ShopERP.Core\\Models\\ShopBase.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\Models\\ShopBase.cs",
+              "RelativeToolTip": "ShopERP.Core\\Models\\ShopBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:26:27.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Data\\DAL\\ShopDataBase.cs",
+              "RelativeDocumentMoniker": "ShopERP.Data\\DAL\\ShopDataBase.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Data\\DAL\\ShopDataBase.cs",
+              "RelativeToolTip": "ShopERP.Data\\DAL\\ShopDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:51:00.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.CA\\Program.cs",
+              "RelativeDocumentMoniker": "ShopERP.CA\\Program.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.CA\\Program.cs",
+              "RelativeToolTip": "ShopERP.CA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:25:03.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Implementations\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Implementations\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Implementations\\EmployeeService.cs",
+              "RelativeToolTip": "ShopERP.Business\\Implementations\\EmployeeService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:06:10.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductNotFoundExeption.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Exceptions\\ProductNotFoundExeption.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Exceptions\\ProductNotFoundExeption.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Exceptions\\ProductNotFoundExeption.cs",
+              "RelativeToolTip": "ShopERP.Business\\Exceptions\\ProductNotFoundExeption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:23:10.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ShopERP.Business\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:54:52.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "ShopERP.Business\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:54:17.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShopService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Implementations\\ShopService.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Implementations\\ShopService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Implementations\\ShopService.cs",
+              "RelativeToolTip": "ShopERP.Business\\Implementations\\ShopService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:05:38.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "ShopERP.Business\\Implementations\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:02:42.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Exceptions\\EmployeeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeToolTip": "ShopERP.Business\\Exceptions\\EmployeeNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:23:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShopNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Exceptions\\ShopNotFoundException.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Exceptions\\ShopNotFoundException.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\Exceptions\\ShopNotFoundException.cs",
+              "RelativeToolTip": "ShopERP.Business\\Exceptions\\ShopNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:22:30.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopERP.Business",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\ShopERP.Business.csproj",
+              "RelativeDocumentMoniker": "ShopERP.Business\\ShopERP.Business.csproj",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Business\\ShopERP.Business.csproj",
+              "RelativeToolTip": "ShopERP.Business\\ShopERP.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T10:52:51.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShopERP.Data",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Data\\ShopERP.Data.csproj",
+              "RelativeDocumentMoniker": "ShopERP.Data\\ShopERP.Data.csproj",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Data\\ShopERP.Data.csproj",
+              "RelativeToolTip": "ShopERP.Data\\ShopERP.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T10:50:31.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShopERP.Core",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\ShopERP.Core.csproj",
+              "RelativeDocumentMoniker": "ShopERP.Core\\ShopERP.Core.csproj",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\New folder\\ShopERP\\ShopERP.Core\\ShopERP.Core.csproj",
+              "RelativeToolTip": "ShopERP.Core\\ShopERP.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T10:25:52.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

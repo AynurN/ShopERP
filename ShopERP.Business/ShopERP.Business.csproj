@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopERP.Core\ShopERP.Core.csproj" />
+    <ProjectReference Include="..\ShopERP.Data\ShopERP.Data.csproj" />
+  </ItemGroup>
+
+</Project>
